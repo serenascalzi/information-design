@@ -1,1 +1,1 @@
-# information-design
+# Information Design
