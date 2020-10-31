@@ -1,6 +1,6 @@
 # Information Design
 
-## Identity Design Elements
+## Design Elements
 - Matrix: The painting thumbnails in this gallery, which become active when a user hovers over them, are displayed in a matrix.
 - Spatial Zoom: When a user clicks on a thumbnail, the full painting is displayed on the screen.
 - Overlay: When the full painting is displayed, it acts as an overlay. The painting becomes active, while the previously active gallery becomes inactive.
